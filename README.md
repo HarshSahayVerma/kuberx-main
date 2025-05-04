@@ -33,9 +33,6 @@ KuberX is a comprehensive finance tracking web application designed to simplify 
 
 - **Dashboard Overview** : The Dashboard provides users with a comprehensive overview of their financial habits. Through intuitive graphs and statistics, users can visualize their income, expenditure, investment portfolio, and more. The dashboard simplifies financial analysis, allowing users to identify trends, track progress towards financial goals, and make data-driven decisions. With KuberX's dashboard, managing finances becomes both insightful and effortless.
 
-## Demo 📸
-https://github.com/shrudex/kuberx/assets/91502997/774c5b8d-888a-4e04-a85e-0a786daf3a4d
-
 
 
 ## Getting Started 🏁
@@ -61,15 +58,6 @@ https://github.com/shrudex/kuberx/assets/91502997/774c5b8d-888a-4e04-a85e-0a786d
    - Connect with finance experts via video calls for personalized advice.
 7. **Language and Voice Support**:
    - Enjoy bilingual support and interact with the chatbot using voice commands.
-
-## About the Team 🙋🏻‍♂️
-
-KuberX was developed by a team of passionate individuals during the HackFest Fintech track. Meet the team behind KuberX:
-
-- **[Shubh](https://github.com/shrudex)**
-- **[Dev](https://github.com/devt-10)**
-- **[Sagnik](https://github.com/svgnix)**
-- **[Abhigyan](https://github.com/abhigyanbasak248)**
 
 ## Contributing 🤝
 Contributions to KuberX are welcome! Whether you're interested in adding new features, fixing bugs, or improving documentation, feel free to submit a pull request.
